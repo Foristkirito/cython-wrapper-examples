@@ -7,7 +7,7 @@ There are a number of functions wrapped as well as a class:
 - "templated_function"
 - "MyCoolClass"
 
-"function" shows how to resolve two C++ that are members of the same overload set (same name different arguments) as well as the basics of getting arguments in and out of Python/Cython/C++ functions.
+"function" shows how to resolve two C++ functions that are members of the same overload set (same name, different arguments) as well as the basics of getting arguments in, through, and out of Python/Cython/C++ functions.
 
 "templated_function" shows how templates work for functions (classes are similar).
 
